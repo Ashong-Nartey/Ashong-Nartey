@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi There 👋!
 Welcome to the home page of Obed Tettey Nartey (Ashong-Nartey). This page contains repositories for various computer vision tasks, machine leaning and data science projects. It also contains links to the implementations of scientific works that may have been published elsewhere.    
 Click on this link https://ashong-nartey.github.io/Profile-page/ to view my profile page. 
